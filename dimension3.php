@@ -114,7 +114,7 @@
 
                                             <div class="form-group">
                                                 <div class="col-md-12">
-                                                    <textarea maxlength="300" class="form-control" id="problema" name="problema" placeholder="¿ Qué problemáticas crees que actualmente son más sensibles en nuestro municipio ?" rows="3"></textarea>
+                                                    <textarea maxlength="300" class="form-control" id="problema" name="problema" placeholder="Que problemática relacionada con el ordenamiento del territorio percibe usted en DOSQUEBRADAS ?" rows="3"></textarea>
                                                 </div>
                                             </div>
                         
@@ -239,15 +239,14 @@
                     <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/nuestro-municipio/plan-de-ordenamiento-territorial-pot/documentos-descargables">Plan de ordenamiento territorial</a></li>
                     <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/about/gaceta-municipal/decretos/category/2-normatividad">Normatividad</a></li>
                     <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/about/rendicion-de-cuentas">Rendición de cuentas</a></li>
-                    <li><a class="text-muted" href="https://www.dosquebradas.gov.co/Aplicativos%20WEB/App%20-%20Estratego/2016-2019/index.php">Plan de desarrollo local vigente</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Referentes de consulta</h5>
                     <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
+                        <li><a class="text-muted" href="https://www.undp.org/content/undp/es/home/sustainable-development-goals.html">ODS - Objetivos del Desarrollo Sostenible</a></li>
+                        <li><a class="text-muted" href="https://plandesarrollo.dosquebradas.gov.co/">Plan de desarrollo municipal</a></li>
+                        <li><a class="text-muted" href="https://www.risaralda.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33546">POT Departamento de Risaralda</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">

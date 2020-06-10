@@ -71,7 +71,12 @@ require_once('bd/sle.php');
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Plan de Ordenamiento Territorial - Dosquebradas</b></div>
-                <div style="font-size: 18pt">Construccion y socializacion</div>
+                <div style="font-size: 18pt">Formulación y socialización</div>
+                <hr>
+                <center><a href="#"><img class="mb-2" src="images/calendario.jpg" alt="" width="100%"></a></center>
+            </div>
+            <div class="col-md-12" align="center">
+                <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/ycd1moRtBS1y3sHa8' target="_blank"><h4>.:: Inscripción Ponencias - Componente Ambiental ::.</h4></a>
             </div>
         </div>
 
@@ -83,14 +88,14 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h2 class="my-0 font-weight-normal">Seguimiento y evaluación</h2>
+                        <h3 class="my-0 font-weight-normal">Seguimiento y evaluación</h3>
                     </div>
 
                     <div><a href="dimension1.php"><img class="card-img-top" src="images/D1.png"></a></div> 
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Texto de introduccion</div><br>
+                        <div>Corresponde a los resultados obtenidos respecto de los objetivos planteados en el Plan de Ordenamiento Territorial vigente el Acuerdo 014 de 2.000.  </div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension1.php">Conoce y participa</a>
                     </div>
@@ -100,14 +105,14 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h2 class="my-0 font-weight-normal">Memoria justificativa</h2>
+                        <h3 class="my-0 font-weight-normal">Memoria justificativa</h3>
                     </div>
 
                     <div><a href="dimension2.php"><img class="card-img-top" src="images/D2.png"></a></div> 
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Texto de introduccion</div><br>
+                        <div>Contiene la necesidad, la conveniencia y el propósito de las modificaciones que se pretenden efectuar, identificando la descripción técnica y la evaluación de sus impactos sobre el Plan de Ordenamiento vigente.</div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension2.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension2.php">Conoce y participa</a>
                     </div>
@@ -117,14 +122,14 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h2 class="my-0 font-weight-normal">Componente diagnostico</h2>
+                        <h3 class="my-0 font-weight-normal">Componente diagnostico</h3>
                     </div>
 
                     <div><a href="dimension3.php"><img class="card-img-top" src="images/D3.png"></a></div> 
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Texto de introduccion</div><br>
+                        <div>Resumen de las características del territorio en sus componentes urbano y rural realizando una evaluación de la situación actual. </div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension3.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension3.php">Conoce y participa</a>
                     </div>
@@ -134,14 +139,14 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h2 class="my-0 font-weight-normal">Documento tecnico</h2>
+                        <h3 class="my-0 font-weight-normal">Documento tecnico</h3>
                     </div>
 
                     <div><a href="dimension4.php"><img class="card-img-top" src="images/D4.png"></a></div> 
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Texto de introduccion</div><br>
+                        <div>Instrumento que contiene las disposiciones técnicas y normativas en los componentes general, urbano y rural, para dinamizar el modelo de ocupación propuesto e innovador para el municipio con proyección a 12 años. </div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension4.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension4.php">Conoce y participa</a>
                     </div>
@@ -154,7 +159,7 @@ require_once('bd/sle.php');
             <div class="col-lg-12 mb-12">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h2 class="my-0 font-weight-normal">Mapas</h2>
+                        <h3 class="my-0 font-weight-normal">Mapas</h3>
                     </div>
 
                     <div><a href="dimension5.php"><img class="card-img-top" src="images/D5.png"></a></div> 
@@ -219,15 +224,14 @@ require_once('bd/sle.php');
                         <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/nuestro-municipio/plan-de-ordenamiento-territorial-pot/documentos-descargables">Plan de ordenamiento territorial</a></li>
                         <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/about/gaceta-municipal/decretos/category/2-normatividad">Normatividad</a></li>
                         <li><a class="text-muted" href="https://www.dosquebradas.gov.co/web/index.php/about/rendicion-de-cuentas">Rendición de cuentas</a></li>
-                        <li><a class="text-muted" href="https://www.dosquebradas.gov.co/Aplicativos%20WEB/App%20-%20Estratego/2016-2019/index.php">Plan de desarrollo local vigente</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Referentes de consulta</h5>
                     <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
-                        <li><a class="text-muted" href="#">Referente 1</a></li>
+                        <li><a class="text-muted" href="https://www.undp.org/content/undp/es/home/sustainable-development-goals.html">ODS - Objetivos del Desarrollo Sostenible</a></li>
+                        <li><a class="text-muted" href="https://plandesarrollo.dosquebradas.gov.co/">Plan de desarrollo municipal</a></li>
+                        <li><a class="text-muted" href="https://www.risaralda.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33546">POT Departamento de Risaralda</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
