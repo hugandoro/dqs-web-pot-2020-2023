@@ -166,7 +166,7 @@ require_once('bd/sle.php');
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Texto de introduccion</div><br>
+                        <div>La cartografía, elemento dinámico para el conocimiento espacial de la Municipalidad.</div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension5.php">Conoce y participa</a>
                     </div>
