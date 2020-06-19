@@ -76,8 +76,8 @@ require_once('bd/sle.php');
                 <center><a href="#"><img class="mb-2" src="images/calendario.jpg" alt="" width="100%"></a></center>
             </div>
             <div class="col-md-12" align="center">
-                <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/9XU9zSFK8P24kN7aA' target="_blank"><h4>Inscripción Ponencias - Servicios públicos domiciliarios | clasificación del suelo</h4></a>
-                <!-- <a class='btn btn-success btn-lg btn-block' href='#' target="_blank"><h4>.:: Inscripción CERRADA - Componente Ambiental ::.</h4></a> -->
+                <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/9XU9zSFK8P24kN7aA' target="_blank"><h4>Inscripción Ponencias - Servicios públicos domiciliarios | clasificación del suelo</h4></a> -->
+                <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Servicios públicos domiciliarios | clasificación del suelo ::.</h4></a>
             </div>
         </div>
 
