@@ -76,8 +76,8 @@ require_once('bd/sle.php');
                 <center><a href="#"><img class="mb-2" src="images/calendario.jpg" alt="" width="100%"></a></center>
             </div>
             <div class="col-md-12" align="center">
-                <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/Zvvb4hvSjNgu2e5b9' target="_blank"><h4>Inscripción Ponencias - Vivienda</h4></a> -->
-                <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Vivienda ::.</h4></a>
+                <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/DRVsN4cPAhVdpAou6' target="_blank"><h4>Inscripción Ponencias - Usos del suelo</h4></a>
+                <!-- <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Vivienda ::.</h4></a> -->
             </div>
         </div>
 
