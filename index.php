@@ -62,6 +62,9 @@ require_once('bd/sle.php');
                     <li class="nav-item">
                         <a class="nav-link" href="redessociales.php">#EstrategiaRedesSociales</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
+                    </li>
                 </ul>
             </div>
         </nav>

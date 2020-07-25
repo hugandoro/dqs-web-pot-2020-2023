@@ -69,24 +69,51 @@
                 </div>
             </nav>
 
+
+            <!-- Ponencias virtuales -->
+            <br><br>
             <div class="row">
-                <div class="text-center col-lg-12 mb-6">
-                    <br>
-                    <center>
-                    <table>
-                        <tr>
-                            <td><hr><center><h3 class="my-0 font-weight-normal">Slogan</center></h3><td>
-                        </tr>
-                    </table>    
-                    </center>               
-                    <hr>
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/NHm5cRolCiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Junio 13 | Ambiental</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/GGi4v4WK0Qk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Junio 20 | Servicios publicos</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Junio 27 | Movilidad</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/LDEt5GYFRxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Julio 4 | Espacio público</div>
                 </div>
             </div>
 
-            <!-- Redes Sociales -->
-            <br>
-            <div class="row">
+            <br><hr>
 
+            <div class="row">
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/TywpY-4q0SI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Julio 11 | Vivienda</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7BY66yFylO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Julio 18 | Usos del suelo</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7fMMi7cTyIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Julio 27 | Ordenamiento rural</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                </div>
             </div>
 
             <br>
