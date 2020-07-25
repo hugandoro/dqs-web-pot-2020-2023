@@ -84,7 +84,7 @@
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/4bjY-c8433Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div style="font-size: 12pt">Junio 27 | Movilidad</div>
                 </div>
 
@@ -109,7 +109,7 @@
 
                 <div class="col-md-3" align="center">
                     <iframe width="100%" height="200" src="https://www.youtube.com/embed/7fMMi7cTyIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Julio 27 | Ordenamiento rural</div>
+                    <div style="font-size: 12pt">Julio 25 | Ordenamiento rural</div>
                 </div>
 
                 <div class="col-md-3" align="center">
