@@ -79,8 +79,8 @@ require_once('bd/sle.php');
                 <center><a href="#"><img class="mb-2" src="images/calendario.jpg" alt="" width="100%"></a></center>
             </div>
             <div class="col-md-12" align="center">
-                <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>
-                <!-- <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - División político administrativa ::.</h4></a> -->
+                <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>-->
+                <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Proyectos estratégicos ::.</h4></a>
             </div>
         </div>
 
