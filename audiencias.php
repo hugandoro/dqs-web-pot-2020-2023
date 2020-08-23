@@ -60,7 +60,7 @@
                             <a class="nav-link" href="prensa.php">Prensa y medios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="redessociales.php">#EstrategiaRedesSociales</a>
+                            <a class="nav-link" href="redessociales.php">#FormulemosPOT</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
@@ -113,6 +113,22 @@
                 </div>
 
                 <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7jPOtHk70SU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Agosto 01 | Politico administrativa</div>
+                </div>
+            </div>
+
+            <br><hr>
+
+            <div class="row">
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/YGL-g4dK-mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Agosto 08 | Proyectos estrategicos</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/TZOhuZXK5ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Agosto 15 | Juntas locales</div>
                 </div>
             </div>
 

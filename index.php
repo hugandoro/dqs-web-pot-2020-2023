@@ -60,7 +60,7 @@ require_once('bd/sle.php');
                         <a class="nav-link" href="prensa.php">Prensa y medios</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="redessociales.php">#EstrategiaRedesSociales</a>
+                        <a class="nav-link" href="redessociales.php">#FormulemosPOT</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
@@ -76,12 +76,12 @@ require_once('bd/sle.php');
                 <div style="font-size: 28pt"><b>Plan de Ordenamiento Territorial - Dosquebradas</b></div>
                 <div style="font-size: 18pt">Formulación y socialización</div>
                 <hr>
-                <center><a href="#"><img class="mb-2" src="images/calendario.jpg" alt="" width="100%"></a></center>
+                <center><a href="#"><img class="mb-2" src="images/calendario2.jpg" alt="" width="100%"></a></center>
             </div>
-            <div class="col-md-12" align="center">
+            <!-- <div class="col-md-12" align="center"> -->
                 <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>-->
-                <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Proyectos estratégicos ::.</h4></a>
-            </div>
+                <!-- <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Proyectos estratégicos ::.</h4></a> -->
+            <!-- </div> -->
         </div>
 
         <hr>

@@ -56,7 +56,7 @@
                             <a class="nav-link" href="prensa.php">Prensa y medios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="redessociales.php">#EstrategiaRedesSociales</a>
+                            <a class="nav-link" href="redessociales.php">#FormulemosPOT</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>

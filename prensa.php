@@ -61,7 +61,7 @@
                             <a class="nav-link" href="prensa.php">Prensa y medios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="redessociales.php">#EstrategiaRedesSociales</a>
+                            <a class="nav-link" href="redessociales.php">#FormulemosPOT</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
@@ -76,19 +76,11 @@
                     <center>
                     <table>
                         <tr>
-                            <td><hr><center><h3 class="my-0 font-weight-normal">Slogan</center></h3><td>
+                            <td><hr><center><h3 class="my-0 font-weight-normal">#FormulemosPOT</center></h3><td>
                         </tr>
                     </table>    
                     </center>               
                     <hr>
-                </div>
-            </div>
-
-            <!-- Eventos virtuales -->
-            <br>
-            <div class="row">
-                <div class="col-md-12" align="center">
-                    <div style="font-size: 20pt">Eventos virtuales<br><br></div>
                 </div>
             </div>
 
@@ -100,24 +92,116 @@
                 </div>
                 <div class="col-md-12" align="center">
                     <table class="table">
+                        <tr>
+                            <td style="font-size: 13pt">Agosto 11 de 2020</td>
+                            <td style="font-size: 13pt">Culminadas las audiencias temáticas de la socialización del Plan de Ordenamiento Territorial</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3837-culminadas-las-audiencias-tematicas-de-la-socializacion-del-plan-de-ordenamiento-territorial">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
 
+                        <tr>
+                            <td style="font-size: 13pt">Agosto 02 de 2020</td>
+                            <td style="font-size: 13pt">Con masiva participación se realizó la octava audiencia pública virtual del POT</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3823-con-masiva-participacion-se-realizo-la-octava-audiencia-publica-virtual-del-pot">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 30 de 2020</td>
+                            <td style="font-size: 13pt">Ordenamiento rural, tema de gran interés en el POT</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3806-ordenamiento-rural-tema-de-gran-interes-en-el-pot">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 22 de 2020</td>
+                            <td style="font-size: 13pt">Gremio de comerciantes participó en la formulación del POT</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3788-gremio-de-comerciantes-participo-en-la-formulacion-del-pot">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 13 de 2020</td>
+                            <td style="font-size: 13pt">Vivienda, componente de la quinta audiencia pública del POT en Dosquebradas</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3769-vivienda-componente-de-la-quinta-audiencia-publica-del-pot-en-dosquebradas">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 07 de 2020</td>
+                            <td style="font-size: 13pt">Espacio Público y Equipamiento Colectivo, de gran interés para la comunidad</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3748-espacio-publico-y-equipamiento-colectivo-de-gran-interes-para-la-comunidad">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 05 de 2020</td>
+                            <td style="font-size: 13pt">En coordinación con la CARDER, inician mesas de trabajo para el POT en Dosquebradas</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3744-en-coordinacion-con-la-carder-inician-mesas-de-trabajo-para-el-pot-en-dosquebradas">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Julio 01 de 2020</td>
+                            <td style="font-size: 13pt">Continúan audiencias participativas virtuales del POT en Dosquebradas</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3728-continuan-audiencias-participativas-virtuales-del-pot-en-dosquebradas">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Junio 24 de 2020</td>
+                            <td style="font-size: 13pt">Con participación ciudadana se sigue ajustando el POT en Dosquebradas</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3707-con-participacion-ciudadana-se-sigue-ajustando-el-pot-en-dosquebradas">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Junio 16 de 2020</td>
+                            <td style="font-size: 13pt">Participación ciudadana visible en el Componente Ambiental del POT</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3686-participacion-ciudadana-visible-en-el-componente-ambiental-del-pot">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td style="font-size: 13pt">Junio 06 de 2020</td>
+                            <td style="font-size: 13pt">Alcaldía de Dosquebradas y Consejo Territorial de Planeación se articulan por el POT</td>
+                            <td>
+                                <a href="https://www.dosquebradas.gov.co/web/index.php/215-secretarias/planeacion/noticias/2020/3661-alcaldia-de-dosquebradas-y-consejo-territorial-de-planeacion-se-articulan-por-el-pot">
+                                    <picture><img class='img-responsive' src="images/icono-pdf.png" width="35px"></picture>
+                                </a>
+                            </td>
+                        </tr>
                     </table>
-                </div>
-            </div>
-
-            <!-- Infografias -->
-            <br>
-            <div class="row">
-                <div class="col-md-12" align="center">
-                    <div style="font-size: 20pt">Infografias<br><br></div>
-                </div>
-            </div>
-
-            <br><br>
-            <!-- Multimedia -->
-            <div class="row">
-                <div class="col-md-12" align="center">
-                    <div style="font-size: 20pt">Multimedia<br><br></div>
                 </div>
             </div>
 
