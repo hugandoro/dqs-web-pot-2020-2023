@@ -65,6 +65,9 @@ require_once('bd/sle.php');
                     <li class="nav-item">
                         <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="territoriales.php">Audiencias territoriales</a>
+                    </li>
                 </ul>
             </div>
         </nav>

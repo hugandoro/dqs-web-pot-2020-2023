@@ -77,47 +77,23 @@
             <br><br>
             <div class="row">
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/NHm5cRolCiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Junio 13 | Ambiental</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/EF2HBooxx7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 1</div>
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/GGi4v4WK0Qk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Junio 20 | Servicios publicos</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/8WfiI7Heq1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 2</div>
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/4bjY-c8433Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Junio 27 | Movilidad</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/dQoEYx2Ffjk  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 3</div>
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/LDEt5GYFRxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Julio 4 | Espacio público</div>
-                </div>
-            </div>
-
-            <br><hr>
-
-            <div class="row">
-                <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/TywpY-4q0SI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Julio 11 | Vivienda</div>
-                </div>
-
-                <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7BY66yFylO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Julio 18 | Usos del suelo</div>
-                </div>
-
-                <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7fMMi7cTyIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Julio 25 | Ordenamiento rural</div>
-                </div>
-
-                <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/7jPOtHk70SU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Agosto 01 | Politico administrativa</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/smcyD9I74tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 4</div>
                 </div>
             </div>
 
@@ -125,13 +101,59 @@
 
             <div class="row">
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/YGL-g4dK-mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Agosto 08 | Proyectos estrategicos</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/WtpqyAfNqJ0 " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 5</div>
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/TZOhuZXK5ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <div style="font-size: 12pt">Agosto 15 | Juntas locales</div>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/xHhwFqzCWNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 6</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/QiJeVNC44Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 7</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/d-bNLXPT4l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 8</div>
+                </div>
+            </div>
+
+            <br><hr>
+
+            <div class="row">
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/LjTyZW7l_DA " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 9</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/XOtN597wdfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 10</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/EIbZztclJhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 11</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Comuna 12</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Alto del Nudo</div>
+                </div>
+
+                <div class="col-md-3" align="center">
+                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div style="font-size: 12pt">Las Marcadas</div>
                 </div>
             </div>
 
