@@ -140,19 +140,19 @@
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/QMWJDKn5Ccc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div style="font-size: 12pt">Comuna 12</div>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/FRLiFEYTWuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div style="font-size: 12pt">Alto del Nudo</div>
                 </div>
 
                 <div class="col-md-3" align="center">
-                    <iframe width="100%" height="200" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/ybBuUTwEt-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div style="font-size: 12pt">Las Marcadas</div>
                 </div>
             </div>
