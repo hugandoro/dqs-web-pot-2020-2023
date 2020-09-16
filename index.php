@@ -79,7 +79,7 @@ require_once('bd/sle.php');
                 <div style="font-size: 28pt"><b>Plan de Ordenamiento Territorial - Dosquebradas</b></div>
                 <div style="font-size: 18pt">Formulación y socialización</div>
                 <hr>
-                <center><a href="#"><img class="mb-2" src="images/banner.png" alt="" width="100%"></a></center>
+                <center><a href="#"><img class="mb-2" src="images/banner.jpg" alt="" width="100%"></a></center>
             </div>
             <!-- <div class="col-md-12" align="center"> -->
                 <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>-->
