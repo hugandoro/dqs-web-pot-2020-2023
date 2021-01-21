@@ -51,10 +51,7 @@ require_once('bd/sle.php');
             <div class="collapse navbar-collapse" id="navbarsExample09">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Construccion POT</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#AnclaParticipacion">Participación ciudadana</a>
+                        <a class="nav-link" href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/7%20-%20Participacion%20democratica/">Participación democratica POT</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="prensa.php">Prensa y medios</a>
@@ -76,8 +73,8 @@ require_once('bd/sle.php');
 
         <div class="row">
             <div class="col-md-12" align="center">
-                <div style="font-size: 28pt"><b>Plan de Ordenamiento Territorial - Dosquebradas</b></div>
-                <div style="font-size: 18pt">Formulación y socialización</div>
+                <div style="font-size: 24pt"><b>Plan de Ordenamiento Territorial - Dosquebradas</b></div>
+                <div style="font-size: 36pt"><b>POT 2021 - 2035</b></div>
                 <hr>
                 <center><a href="#"><img class="mb-2" src="images/banner.jpg" alt="" width="100%"></a></center>
             </div>
@@ -112,7 +109,7 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Memoria justificativa</h3>
+                        <h3 class="my-0 font-weight-normal">Documento resumen</h3>
                     </div>
 
                     <div><a href="dimension2.php"><img class="card-img-top" src="images/D2.png"></a></div> 
@@ -129,7 +126,7 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Componente diagnostico</h3>
+                        <h3 class="my-0 font-weight-normal">Diagnostico</h3>
                     </div>
 
                     <div><a href="dimension3.php"><img class="card-img-top" src="images/D3.png"></a></div> 
@@ -146,7 +143,7 @@ require_once('bd/sle.php');
             <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Documento tecnico</h3>
+                        <h3 class="my-0 font-weight-normal">Formulación</h3>
                     </div>
 
                     <div><a href="dimension4.php"><img class="card-img-top" src="images/D4.png"></a></div> 
@@ -163,10 +160,28 @@ require_once('bd/sle.php');
 
          <!-- Tarjetas -->
         <div class="row">
-            <div class="col-lg-12 mb-12">
+    
+            <div class="col-lg-6 mb-6">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Mapas</h3>
+                        <h3 class="my-0 font-weight-normal">Proyecto de acuerdo municipal</h3>
+                    </div>
+
+                    <div><a href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/"><img class="card-img-top" src="images/D6.png"></a></div> 
+
+                    <div class="card-body">
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Por el cual se adopta la revisión ordinaria de largo plazo del plan de ordenamiento territorial moderno del municipio de dosquebradas 2021 -2035</div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/">Conocer el documento</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="my-0 font-weight-normal">Cartografia</h3>
                     </div>
 
                     <div><a href="dimension5.php"><img class="card-img-top" src="images/D5.png"></a></div> 
@@ -179,6 +194,7 @@ require_once('bd/sle.php');
                     </div>
                 </div>
             </div>
+
         </div>
 
         <hr>

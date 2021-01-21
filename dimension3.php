@@ -47,10 +47,7 @@
                 <div class="collapse navbar-collapse" id="navbarsExample09">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Construccion POT</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.php">Participación ciudadana</a>
+                            <a class="nav-link" href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/7%20-%20Participacion%20democratica/">Participación democratica POT</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="prensa.php">Prensa y medios</a>
@@ -71,12 +68,7 @@
             <div class="row">
                 <div class="text-center col-lg-12 mb-6">
                     <center>
-                        <table>
-                        <tr>
-                            <td><h1 class="display-4">Componente diagnostico | </h1></td>
-                            <td><a href="/repositorio/3 - Diagnostico.zip"><img class='img-responsive' src="images/icono-pdf.png" width="40px"></a></td>
-                        </tr>
-                        </table>
+                        <br><div style="font-size: 34pt">Diagnostico</div><br>
                     </center>
 
                      <?php 
@@ -92,6 +84,21 @@
                             mysqli_query($sle,$sql)or die (mysql_error());
 
                             echo "<center><picture><img class='img-responsive' src='images/banner3.jpg'></picture></center>";
+
+                            //Versiones documentos
+                            echo "<br>";
+                            echo "<table class = 'table table-bordered'>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'><b>POT Municipio de Dosquebradas - Version 30 de Diciembre 2020</b></div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'>POT Municipio de Dosquebradas - Version 30 de Diciembre 2019</div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202019/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "</table>";
+                            // Fin versiones documentos
+
                             echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension3.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
                             echo "<br><h4 class='display-6'>Gracias por tu aporte</h4>";
                         }
@@ -157,6 +164,21 @@
                             }
 
                             echo "<center><picture><img class='img-responsive' src='images/banner3.jpg'></picture></center>";
+
+                            //Versiones documentos
+                            echo "<br>";
+                            echo "<table class = 'table table-bordered'>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'><b>POT Municipio de Dosquebradas - Version 30 de Diciembre 2020</b></div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'>POT Municipio de Dosquebradas - Version 30 de Diciembre 2019</div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202019/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "</table>";
+                            // Fin versiones documentos
+
                             echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension3.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
                         }
 
@@ -164,6 +186,21 @@
                         else
                         {
                             echo "<center><picture><img class='img-responsive' src='images/banner3.jpg'></picture></center>";
+
+                            //Versiones documentos
+                            echo "<br>";
+                            echo "<table class = 'table table-bordered'>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'><b>POT Municipio de Dosquebradas - Version 30 de Diciembre 2020</b></div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "<tr class='table-light'>";
+                            echo "<td><div style='font-size: 12pt; text-align: left'>POT Municipio de Dosquebradas - Version 30 de Diciembre 2019</div></td>";
+                            echo "<td><a class='btn btn-info btn-lg btn-block' href='https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202019/3%20-%20Diagnostico/'> Descargar </a></td>";
+                            echo "</tr>";
+                            echo "</table>";
+                            // Fin versiones documentos
+
                             //echo "<hr><center><h2>.:: Periodo de participacion virtual cerrado - Gracias por tus aportes ::.</h2></center><hr>";
                             echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension3.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
                         }

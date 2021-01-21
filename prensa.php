@@ -52,10 +52,7 @@
                 <div class="collapse navbar-collapse" id="navbarsExample09">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Construccion POT</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.php">Participación ciudadana</a>
+                            <a class="nav-link" href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/7%20-%20Participacion%20democratica/">Participación democratica POT</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="prensa.php">Prensa y medios</a>
