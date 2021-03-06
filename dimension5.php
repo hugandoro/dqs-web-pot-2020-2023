@@ -201,8 +201,8 @@
                             echo "</table>";
                             // Fin versiones documentos
 
-                            //echo "<hr><center><h2>.:: Periodo de participacion virtual cerrado - Gracias por tus aportes ::.</h2></center><hr>";
-                            echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension5.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
+                            echo "<hr><center><h2>.:: Periodo de participacion virtual cerrado - Gracias por tus aportes ::.</h2></center><hr>";
+                            //echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension5.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
                         }
                     ?>
                     <hr>
