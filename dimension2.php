@@ -81,8 +81,16 @@
                             $email = $_POST['email'];
                             $problema = $_POST['problema'];
                             $idea = $_POST['idea'];
-                            $sql = "INSERT INTO aportes (dimension, nombre, email, diagnostico, idea, aprobacion) VALUES ('2', '$nombre', '$email', '$problema', '$idea','0')";
-                            mysqli_query($sle,$sql)or die (mysql_error());
+
+                            $nombre = mysqli_real_escape_string($sle, $nombre);
+                            $email = mysqli_real_escape_string($sle, $email);
+                            $problema = mysqli_real_escape_string($sle, $problema);
+                            $idea = mysqli_real_escape_string($sle, $idea);
+
+                            $sql = "INSERT INTO aportes (dimension, nombre, email, diagnostico, idea, aprobacion) VALUES ('2', ?, ?, ?, ?,'0')";
+                            $sentencia = mysqli_prepare($sle, $sql) or die("Unable to prepare statement: " . $sle->error);
+                            mysqli_stmt_bind_param($sentencia, "ssss", $nombre, $email, $problema, $idea);
+                            mysqli_stmt_execute($sentencia) or die("Unable to execute query: " . $sentencia->error);
 
                             echo "<center><picture><img class='img-responsive' src='images/banner2.jpg'></picture></center>";
 
@@ -203,7 +211,7 @@
                             // Fin versiones documentos
 
                             echo "<hr><center><h2>.:: Periodo de participacion virtual cerrado - Gracias por tus aportes ::.</h2></center><hr>";
-                            //echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension2.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
+                            echo "<br><a class='btn btn-danger btn-lg btn-block' href='dimension2.php?formulario=nuevo'><h2>.:: Cuéntanos tu propuesta ::.</h2></a>";
                         }
                     ?>
                     <hr>
@@ -228,11 +236,11 @@
                 <div class="col-lg-3 mb-3">
                     <div class="card h-100 box-shadow" align="center">
                         <div class="card-header bg-dark text-white">
-                            <h4 class="my-0 font-weight-normal"><?php echo $registro[2]; ?></h4>
+                            <h4 class="my-0 font-weight-normal"><?php echo htmlspecialchars($registro[2]); ?></h4>
                         </div>
                         <div class="card-body">
                             <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                            <div><?php echo $registro[5]; ?></div>
+                            <div><?php echo htmlspecialchars($registro[5]); ?></div>
                         </div>
                         <div>
                             <?php
@@ -317,14 +325,6 @@
             mysqli_query($sle,$sql)or die (mysql_error());
         ?>
 
-        <!-- ChatBOT-->
-        <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
-        <script>
-        var myLandbot = new LandbotLivechat({
-            index: 'https://landbot.io/u/H-418686-4VRLIWRAZFTWWSUO/index.html',
-        });
-        </script>
-        <!-- Fin del codigo ChatBOT-->
 
     </body>
 </html>

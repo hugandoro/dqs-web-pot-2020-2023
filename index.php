@@ -29,8 +29,6 @@ require_once('bd/sle.php');
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <script src="ajax_arbol_plan.js"></script>
-
 </head>
 
 <!-- <body style="background-color:#F1F7E5;"> -->
@@ -39,8 +37,8 @@ require_once('bd/sle.php');
 
     <div class="container">
 
-   	<!-- Barra de navegacion superior -->
-       <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
+        <!-- Barra de navegacion superior -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
             <a class="navbar-brand" href="index.php"><img src="images/logo_miniatura_administracion.png" width="50" height="50" alt=""></a>
             <a class="navbar-brand" href="index.php"><img src="images/logo_miniatura_pot.png" width="50" height="50" alt=""></a>
 
@@ -79,8 +77,8 @@ require_once('bd/sle.php');
                 <center><a href="#"><img class="mb-2" src="images/banner.jpg" alt="" width="100%"></a></center>
             </div>
             <!-- <div class="col-md-12" align="center"> -->
-                <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>-->
-                <!-- <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Proyectos estratégicos ::.</h4></a> -->
+            <!-- <a class='btn btn-success btn-lg btn-block' href='https://forms.gle/gxBDfLTXD3YkuehQ8' target="_blank"><h4>Inscripción Ponencias - Proyectos estratégicos, instrumentos de gestión</h4></a>-->
+            <!-- <a class='btn btn-success btn-lg btn-block' href='#'><h4>.:: Inscripción CERRADA - Proyectos estratégicos ::.</h4></a> -->
             <!-- </div> -->
         </div>
 
@@ -95,11 +93,11 @@ require_once('bd/sle.php');
                         <h3 class="my-0 font-weight-normal">Seguimiento y evaluación</h3>
                     </div>
 
-                    <div><a href="dimension1.php"><img class="card-img-top" src="images/D1.png"></a></div> 
+                    <div><a href="dimension1.php"><img class="card-img-top" src="images/D1.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
-                        <div>Corresponde a los resultados obtenidos respecto de los objetivos planteados en el Plan de Ordenamiento Territorial vigente el Acuerdo 014 de 2.000.  </div><br>
+                        <div>Corresponde a los resultados obtenidos respecto de los objetivos planteados en el Plan de Ordenamiento Territorial vigente el Acuerdo 014 de 2.000. </div><br>
                         <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
                         <a class='btn btn-outline-dark btn-sm' href="dimension1.php">Conoce y participa</a>
                     </div>
@@ -112,7 +110,7 @@ require_once('bd/sle.php');
                         <h3 class="my-0 font-weight-normal">Documento resumen</h3>
                     </div>
 
-                    <div><a href="dimension2.php"><img class="card-img-top" src="images/D2.png"></a></div> 
+                    <div><a href="dimension2.php"><img class="card-img-top" src="images/D2.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
@@ -129,7 +127,7 @@ require_once('bd/sle.php');
                         <h3 class="my-0 font-weight-normal">Diagnostico</h3>
                     </div>
 
-                    <div><a href="dimension3.php"><img class="card-img-top" src="images/D3.png"></a></div> 
+                    <div><a href="dimension3.php"><img class="card-img-top" src="images/D3.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
@@ -146,7 +144,7 @@ require_once('bd/sle.php');
                         <h3 class="my-0 font-weight-normal">Formulación</h3>
                     </div>
 
-                    <div><a href="dimension4.php"><img class="card-img-top" src="images/D4.png"></a></div> 
+                    <div><a href="dimension4.php"><img class="card-img-top" src="images/D4.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
@@ -158,16 +156,16 @@ require_once('bd/sle.php');
             </div>
         </div>
 
-         <!-- Tarjetas -->
+        <!-- Tarjetas -->
         <div class="row">
-    
+
             <div class="col-lg-6 mb-6">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
                         <h3 class="my-0 font-weight-normal">Proyecto de acuerdo municipal</h3>
                     </div>
 
-                    <div><a href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/"><img class="card-img-top" src="images/D6.png"></a></div> 
+                    <div><a href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/"><img class="card-img-top" src="images/D6.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
@@ -184,7 +182,7 @@ require_once('bd/sle.php');
                         <h3 class="my-0 font-weight-normal">Cartografia</h3>
                     </div>
 
-                    <div><a href="dimension5.php"><img class="card-img-top" src="images/D5.png"></a></div> 
+                    <div><a href="dimension5.php"><img class="card-img-top" src="images/D5.png"></a></div>
 
                     <div class="card-body">
                         <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
@@ -201,31 +199,48 @@ require_once('bd/sle.php');
 
         <!-- Texto a 3 columnas -->
         <?php
-        $sql = "SELECT * FROM contador WHERE id = 1";
-        $result = mysqli_query($sle,$sql) or die(mysql_error());
-        $contador = mysqli_fetch_row($result);
 
-        $sql = "SELECT SUM(aprobacion) totalAprobacion FROM aportes";
-        $result = mysqli_query($sle,$sql) or die(mysql_error());
-        $votos = mysqli_fetch_row($result);
+        // Consulta contador de visitas
+        $idContador = 1;
+        $idContador = mysqli_real_escape_string($sle, $idContador);
 
+        $sql = "SELECT * FROM contador WHERE id = ?";
+        $sentencia = mysqli_prepare($sle, $sql) or die("Unable to prepare statement: " . $sle->error);
+        mysqli_stmt_bind_param($sentencia, "i", $idContador);
+        mysqli_stmt_execute($sentencia) or die("Unable to execute query: " . $sentencia->error);
+        $resultado = mysqli_stmt_get_result($sentencia);
+        $contador = mysqli_fetch_array($resultado);
+        // Fin de la consulta
+
+        // Consulta total aportes
         $sql = "SELECT * FROM aportes";
-        $result = mysqli_query($sle,$sql) or die(mysql_error());
-        $aportes = mysqli_num_rows($result);
+        $sentencia = mysqli_prepare($sle, $sql) or die("Unable to prepare statement: " . $sle->error);
+        mysqli_stmt_execute($sentencia) or die("Unable to execute query: " . $sentencia->error);
+        $resultado = mysqli_stmt_get_result($sentencia);
+        $aportes = mysqli_num_rows($resultado);
+        // Fin de la consulta
+
+        // Consulta total de aprobacion o sumatoria de corazones
+        $sql = "SELECT SUM(aprobacion) totalAprobacion FROM aportes";
+        $sentencia = mysqli_prepare($sle, $sql) or die("Unable to prepare statement: " . $sle->error);
+        mysqli_stmt_execute($sentencia) or die("Unable to execute query: " . $sentencia->error);
+        $resultado = mysqli_stmt_get_result($sentencia);
+        $votos = mysqli_fetch_array($resultado);
+        // Fin de la consulta
         ?>
 
         <div class="row">
             <div class="col-md-4" align="center">
                 <div style="font-size: 25pt">Visitas</div>
-                <div style="font-size: 60pt"><b><?php echo $contador[1]; ?></b></div>
+                <div style="font-size: 60pt"><b><?php echo htmlspecialchars($contador['portada']); ?></b></div>
             </div>
             <div class="col-md-4" align="center">
                 <div style="font-size: 25pt">Aportes</div>
-                <div style="font-size: 60pt"><b><?php echo $aportes; ?></b></div>
+                <div style="font-size: 60pt"><b><?php echo htmlspecialchars($aportes); ?></b></div>
             </div>
             <div class="col-md-4" align="center">
                 <div style="font-size: 25pt">Corazones</div>
-                <div style="font-size: 60pt"><b><?php echo $votos[0]; ?></b></div>
+                <div style="font-size: 60pt"><b><?php echo htmlspecialchars($votos[0]); ?></b></div>
             </div>
         </div>
 
@@ -236,7 +251,8 @@ require_once('bd/sle.php');
                 <div class="col-12 col-md">
                     <center><img class="mb-2" src="images/logo_miniatura_administracion.png" alt="" width="100" height="100">
                         <small class="d-block mb-3 text-muted">Secretaria Municipal de Planeación</small>
-                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small></center>
+                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small>
+                    </center>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Institucional</h5>
@@ -270,24 +286,15 @@ require_once('bd/sle.php');
     if (isset($_GET['id'])) $aux = $_GET['id'];
 
     $sql = "SELECT * FROM visitas WHERE direccion_ip = '$IDUSER' AND fecha=CURDATE() AND aporte=$aux";
-    $result = mysqli_query($sle,$sql);
+    $result = mysqli_query($sle, $sql);
     if (mysqli_num_rows($result) == 0) {
         $sql = "INSERT INTO visitas VALUES(NULL,'$IDUSER',CURDATE(),'999999')";
-        mysqli_query($sle,$sql);
+        mysqli_query($sle, $sql);
     }
 
     $sql = "UPDATE contador SET portada = portada + 1 WHERE id = 1";
-    mysqli_query($sle,$sql) or die(mysql_error());
+    mysqli_query($sle, $sql) or die(mysql_error());
     ?>
-
-    <!-- ChatBOT-->
-    <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
-    <script>
-        var myLandbot = new LandbotLivechat({
-            index: 'https://landbot.io/u/H-418686-4VRLIWRAZFTWWSUO/index.html',
-        });
-    </script>
-    <!-- Fin del codigo ChatBOT-->
 
 </body>
 

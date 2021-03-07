@@ -141,14 +141,6 @@
             mysqli_query($sle,$sql)or die (mysql_error());
         ?>
 
-        <!-- ChatBOT-->
-        <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
-        <script>
-        var myLandbot = new LandbotLivechat({
-            index: 'https://landbot.io/u/H-418686-4VRLIWRAZFTWWSUO/index.html',
-        });
-        </script>
-        <!-- Fin del codigo ChatBOT-->
 
     </body>
 </html>
