@@ -3,6 +3,10 @@ header('Content-Type: text/html; charset=UTF-8');
 error_reporting(0);
 $currentPage = $_SERVER["PHP_SELF"];
 require_once('bd/sle.php');
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 ?>
 <!doctype html>
 <html lang="es">
