@@ -56,7 +56,7 @@
                             <a class="nav-link" href="redessociales.php">#FormulemosPOT</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="audiencias.php">Audiencias virtuales</a>
+                            <a class="nav-link" href="https://pot.dosquebradas.gov.co/repositorio/PLANES%20PARCIALES/">Planes parciales</a>
                         </li>
                         <li class="nav-item">
                            <a class="nav-link" href="territoriales.php">Audiencias territoriales</a>
