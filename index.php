@@ -234,15 +234,15 @@ error_reporting(E_ALL);
         ?>
 
         <div class="row">
-            <div class="col-md-4" align="center">
+            <div class="col-md-6" align="center">
                 <div style="font-size: 25pt">Visitas</div>
                 <div style="font-size: 60pt"><b><?php echo htmlspecialchars($contador['portada']); ?></b></div>
             </div>
-            <div class="col-md-4" align="center">
+            <!--<div class="col-md-4" align="center">
                 <div style="font-size: 25pt">Aportes</div>
                 <div style="font-size: 60pt"><b><?php echo htmlspecialchars($aportes); ?></b></div>
-            </div>
-            <div class="col-md-4" align="center">
+            </div>-->
+            <div class="col-md-6" align="center">
                 <div style="font-size: 25pt">Corazones</div>
                 <div style="font-size: 60pt"><b><?php echo htmlspecialchars($votos[0]); ?></b></div>
             </div>
