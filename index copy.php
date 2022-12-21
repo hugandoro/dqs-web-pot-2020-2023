@@ -91,49 +91,113 @@ error_reporting(E_ALL);
 
         <!-- Tarjetas -->
         <div class="row">
-            <div class="col-lg-4 mb-4">
+            <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
-                    <div class="card-header bg-success text-white">
-                        <h3 class="my-0 font-weight-normal">Propuesta diciembre 20 de 2022</h3>
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="my-0 font-weight-normal">Seguimiento y evaluación</h3>
                     </div>
 
-                    <div><a href="dimension3.php"><img class="card-img-top" src="images/D8.png"></a></div>
+                    <div><a href="dimension1.php"><img class="card-img-top" src="images/D1.png"></a></div>
 
                     <div class="card-body">
-                        <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 20 - 2022/">Conoce...</a>
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Corresponde a los resultados obtenidos respecto de los objetivos planteados en el Plan de Ordenamiento Territorial vigente el Acuerdo 014 de 2.000. </div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="dimension1.php">Conoce y participa</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 mb-4">
+            <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Propuesta diciembre 30 de 2020</h3>
+                        <h3 class="my-0 font-weight-normal">Documento resumen</h3>
                     </div>
 
-                    <div><a href="dimension1.php"><img class="card-img-top" src="images/D3.png"></a></div>
+                    <div><a href="dimension2.php"><img class="card-img-top" src="images/D2.png"></a></div>
 
                     <div class="card-body">
-                        <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 30 - 2020/">Conoce...</a>
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Contiene la necesidad, la conveniencia y el propósito de las modificaciones que se pretenden efectuar, identificando la descripción técnica y la evaluación de sus impactos sobre el Plan de Ordenamiento vigente.</div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension2.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="dimension2.php">Conoce y participa</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 mb-4">
+            <div class="col-lg-3 mb-3">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
-                        <h3 class="my-0 font-weight-normal">Propuesta diciembre 30 de 2019</h3>
+                        <h3 class="my-0 font-weight-normal">Diagnostico</h3>
                     </div>
 
-                    <div><a href="dimension2.php"><img class="card-img-top" src="images/D1.png"></a></div>
+                    <div><a href="dimension3.php"><img class="card-img-top" src="images/D3.png"></a></div>
 
                     <div class="card-body">
-                        <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 30 - 2019/">Conoce...</a>
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Resumen de las características del territorio en sus componentes urbano y rural realizando una evaluación de la situación actual. </div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension3.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="dimension3.php">Conoce y participa</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 mb-3">
+                <div class="card h-100 box-shadow" align="center">
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="my-0 font-weight-normal">Formulación</h3>
+                    </div>
+
+                    <div><a href="dimension4.php"><img class="card-img-top" src="images/D4.png"></a></div>
+
+                    <div class="card-body">
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Instrumento que contiene las disposiciones técnicas y normativas en los componentes general, urbano y rural, para dinamizar el modelo de ocupación propuesto e innovador para el municipio con proyección a 12 años. </div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension4.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="dimension4.php">Conoce y participa</a>
                     </div>
                 </div>
             </div>
         </div>
 
+        <!-- Tarjetas -->
+        <div class="row">
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="my-0 font-weight-normal">Proyecto de acuerdo municipal</h3>
+                    </div>
+
+                    <div><a href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/"><img class="card-img-top" src="images/D6.png"></a></div>
+
+                    <div class="card-body">
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>Por el cual se adopta la revisión ordinaria de largo plazo del plan de ordenamiento territorial moderno del municipio de dosquebradas 2021 -2035</div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="https://pot.dosquebradas.gov.co/repositorio/POT%20-%20Diciembre%2030%20-%202020/5%20-%20Proyecto%20de%20acuerdo%20municipal/">Conocer el documento</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="my-0 font-weight-normal">Cartografia</h3>
+                    </div>
+
+                    <div><a href="dimension5.php"><img class="card-img-top" src="images/D5.png"></a></div>
+
+                    <div class="card-body">
+                        <!-- <h1 class="card-title pricing-card-title">Dimension N° 1</h1>-->
+                        <div>La cartografía, elemento dinámico para el conocimiento espacial de la Municipalidad.</div><br>
+                        <!--<a class='btn btn-outline-primary btn-lg' href="dimension1.php">Opina y participa</a>-->
+                        <a class='btn btn-outline-dark btn-sm' href="dimension5.php">Conoce y participa</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
 
         <hr>
 
