@@ -97,7 +97,7 @@ error_reporting(E_ALL);
                         <h3 class="my-0 font-weight-normal">Propuesta diciembre 20 de 2022</h3>
                     </div>
 
-                    <div><a href="dimension3.php"><img class="card-img-top" src="images/D8.png"></a></div>
+                    <div><a href="/repositorio/POT - Diciembre 20 - 2022/"><img class="card-img-top" src="images/D8.png"></a></div>
 
                     <div class="card-body">
                         <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 20 - 2022/">Conoce...</a>
@@ -111,7 +111,7 @@ error_reporting(E_ALL);
                         <h3 class="my-0 font-weight-normal">Propuesta diciembre 30 de 2020</h3>
                     </div>
 
-                    <div><a href="dimension1.php"><img class="card-img-top" src="images/D3.png"></a></div>
+                    <div><a href="/repositorio/POT - Diciembre 30 - 2020/"><img class="card-img-top" src="images/D3.png"></a></div>
 
                     <div class="card-body">
                         <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 30 - 2020/">Conoce...</a>
@@ -125,7 +125,7 @@ error_reporting(E_ALL);
                         <h3 class="my-0 font-weight-normal">Propuesta diciembre 30 de 2019</h3>
                     </div>
 
-                    <div><a href="dimension2.php"><img class="card-img-top" src="images/D1.png"></a></div>
+                    <div><a href="/repositorio/POT - Diciembre 30 - 2019/"><img class="card-img-top" src="images/D1.png"></a></div>
 
                     <div class="card-body">
                         <a class='btn btn-outline-dark btn-sm' href="/repositorio/POT - Diciembre 30 - 2019/">Conoce...</a>
