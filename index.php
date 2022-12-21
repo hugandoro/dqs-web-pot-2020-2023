@@ -91,7 +91,10 @@ error_reporting(E_ALL);
 
         <!-- Tarjetas -->
         <div class="row">
-            <div class="col-lg-4 mb-4">
+            <div class="col-lg-4 mb-3">
+            </div>
+
+            <div class="col-lg-4 mb-6">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-success text-white">
                         <h3 class="my-0 font-weight-normal">Propuesta diciembre 20 de 2022</h3>
@@ -105,6 +108,10 @@ error_reporting(E_ALL);
                 </div>
             </div>
 
+            <div class="col-lg-4 mb-3">
+            </div>
+
+            <!--
             <div class="col-lg-4 mb-4">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-secondary text-white">
@@ -132,6 +139,7 @@ error_reporting(E_ALL);
                     </div>
                 </div>
             </div>
+            -->
         </div>
 
 
